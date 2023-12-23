@@ -2,31 +2,39 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Avi Gala
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20th November 2000
     - name: Languages
-      value: English, German
+      value: English, Spanish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S. Computer Science
+      institution: University of Southern California
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Courses Taken
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - CSCI 699: Deep Learning and its Applications
+            - CSCI 567: Machine Learning
+            - CSCI 576: Multimedia Systems Design
+            - CSCI 570: Algorithms
+            - CSCI 699: Robustness and Generalization in Natural Language Processing
+    - title: B.S. Computer Engineering and Computer Science
+      institution: University of Southern California
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - title: Notable Courses Taken
+          contents:
+            - ITP 380: Video Game Programming
+            - ITP 438: Advanced Gameplay Programming
+            - CSCI 499: Natural Language Processing
+            - EE 250: Distributed Systems
+            - MATH 407: Probability Theory
+            - EE 451: Parallel Systems computing
+            - EE 454: Intro to System-on-chip
 
 - title: Experience
   type: time_table
