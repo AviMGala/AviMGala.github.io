@@ -17,24 +17,24 @@
       description:
         - title: Courses Taken
           contents:
-            - CSCI 699: Deep Learning and its Applications
-            - CSCI 567: Machine Learning
-            - CSCI 576: Multimedia Systems Design
-            - CSCI 570: Algorithms
-            - CSCI 699: Robustness and Generalization in Natural Language Processing
+            - CSCI 699| Deep Learning and its Applications
+            - CSCI 567| Machine Learning
+            - CSCI 576| Multimedia Systems Design
+            - CSCI 570| Algorithms
+            - CSCI 699| Robustness and Generalization in Natural Language Processing
     - title: B.S. Computer Engineering and Computer Science
       institution: University of Southern California
       year: 2023
       description:
         - title: Notable Courses Taken
           contents:
-            - ITP 380: Video Game Programming
-            - ITP 438: Advanced Gameplay Programming
-            - CSCI 499: Natural Language Processing
-            - EE 250: Distributed Systems
-            - MATH 407: Probability Theory
-            - EE 451: Parallel Systems computing
-            - EE 454: Intro to System-on-chip
+            - ITP 380| Video Game Programming
+            - ITP 438| Advanced Gameplay Programming
+            - CSCI 499| Natural Language Processing
+            - EE 250| Distributed Systems
+            - MATH 407| Probability Theory
+            - EE 451| Parallel Systems computing
+            - EE 454| Intro to System-on-chip
 
 - title: Experience
   type: time_table
