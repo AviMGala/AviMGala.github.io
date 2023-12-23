@@ -16,7 +16,7 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 Hi! My name is Avi Gala, I've recently graduated from the University of Southern California with a B.S. in Computer Engineering and Computer Science, and an M.S. in Computer Science. My academic interests are in Game Development, AI/ML, and Quanitative Finance.
