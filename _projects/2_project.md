@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Portal Clone
+description: A Clone of Portal for ITP 380
+img: assets/img/portal.jpg
 importance: 2
-category: work
+category: Games
 giscus_comments: true
 ---
 
