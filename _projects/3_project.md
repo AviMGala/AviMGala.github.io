@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Blizzard Entertainment (SWE Intern Summer 22' and 23')
+description: I worked on the Server & Netcode team under the Blizzard Core Tech, Team 0
+img: assets/img/blizzard.jpeg
 importance: 3
-category: work
+category: Games
 ---
 
 Every project has a beautiful feature showcase page.
