@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blizzard Entertainment (SWE Intern Summer 22' and 23')
-description: I worked on the Server & Netcode team under the Blizzard Core Tech, Team 0
+description: I worked on the Server & Netcode team under the Blizzard Core Tech organization, Team 0
 img: assets/img/blizzard.jpeg
 importance: 3
 category: Games
