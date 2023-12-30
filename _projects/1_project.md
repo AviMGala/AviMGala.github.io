@@ -13,17 +13,17 @@ with c++ code written for networking, movement, combat, UI, and more!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/1H1qfgXoE8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <!-- Embed code for another video -->
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <!-- Embed code for another video -->
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    On the left is a basic system to respawn the player. Middle, networked chat functionality in C++. Right, in-game tags and launching via Steam.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -31,7 +31,7 @@ with c++ code written for networking, movement, combat, UI, and more!
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Here's a snippet from the final project, implementing a networked projectile
 </div>
 
 You can also put regular text between your rows of images.
