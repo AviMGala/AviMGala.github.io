@@ -20,4 +20,4 @@ social: false  # includes social icons at the bottom of the page
 
 Hi! My name is Avi Gala, I've recently graduated from the University of Southern California with a B.S. in Computer Engineering and Computer Science, and an M.S. in Computer Science. My academic interests are in Game Development, AI/ML, and Quanitative Finance.
 
-During my time at USC, I was the president of QuantSC (USC Quantitative Finance org), sang on an a capella team, and was actively involved in CAIS++ and USC Makers. I love to build things (see the Side Quests page).
+During my time at USC, I was the president of QuantSC (USC Quantitative Finance org), sang on an a capella team, and was actively involved in CAIS++ and USC Makers. I love to build things (see the Projects page).
