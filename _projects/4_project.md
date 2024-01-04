@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: David Goggins LM
+title: David Goggins LM
+description: A language model that generates text in the style of David Goggins. Who's gonna carry the boats?!
 img: assets/img/Goggins_pfp.jpg
 importance: 3
 category: ML/Quant/Misc.
