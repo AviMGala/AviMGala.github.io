@@ -4,7 +4,7 @@ title: Portal Clone
 description: A Clone of Portal for ITP 380
 img: assets/img/portal.jpg
 importance: 2
-category: Games
+category: 
 giscus_comments: true
 ---
 
