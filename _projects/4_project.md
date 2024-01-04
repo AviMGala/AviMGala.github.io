@@ -14,6 +14,6 @@ Built a language model trained on David Goggins' content scraped from YouTube. W
     </div>
 </div>
 
-<iframe src="assets/pdf/Goggins.pdf" width="600" height="400">
-  <p>Your browser does not support iframes. Here is the <a href="assets/pdf/Goggins.pdf">link</a> to the paper.</p>
+<iframe src="../assets/pdf/Goggins.pdf" width="600" height="400">
+  <p>Your browser does not support iframes. Here is the <a href="../assets/pdf/Goggins.pdf">link</a> to the paper.</p>
 </iframe>
