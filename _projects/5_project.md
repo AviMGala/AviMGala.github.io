@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: The HMM Trading Project
+description: Built a quantitative trading model to detect regime shifts using Hidden Markov Models with Anuj Vasil
+img: assets/img/HMM.png
 importance: 3
-category: fun
+category: ML/Quant/Misc.
 ---
 
 Every project has a beautiful feature showcase page.
