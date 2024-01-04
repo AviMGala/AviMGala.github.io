@@ -26,8 +26,8 @@ with c++ code written for networking, movement, combat, UI, and more!
     The leftmost video features projectile collision detection, networked kill streaks, and messages that indicate the start and end of the game. In the middle is networked chat functionality. Lastly, the rightmost clip shows tagging and switching tags (like in Valorant or Overwatch).
 </div>
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <iframe width="650" height="365" src="https://www.youtube.com/embed/KNC-wJUlZbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="col-sm-12 mt-3 mt-md-0">
+        <iframe width="700" height="365" src="https://www.youtube.com/embed/KNC-wJUlZbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 <div class="caption">
