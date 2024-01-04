@@ -13,5 +13,8 @@ Built a language model trained on David Goggins' content scraped from YouTube. W
         <iframe width="100%" height="202" src="https://www.youtube.com/embed/n_e8e6tPa44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
-
-<embed src="..assets/pdf/Goggins.pdf" width="800px" height="2100px" />
+ <div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        <iframe src="https://drive.google.com/file/d/1ftMVt4At4AJxOyVCwUaWGi1VJNd6Qdw2/preview" style="width:100%; height:500px;" frameborder="0"></iframe>
+    </div>
+</div>
