@@ -15,6 +15,6 @@ Built a language model trained on David Goggins' content scraped from YouTube. W
 </div>
  <div class="row">
     <div class="col-sm-12 mt-3 mt-md-0">
-        <iframe src="https://drive.google.com/file/d/1ftMVt4At4AJxOyVCwUaWGi1VJNd6Qdw2/preview" width="640" height="480" allow="autoplay"></iframe>
+        <iframe src="https://drive.google.com/file/d/1ftMVt4At4AJxOyVCwUaWGi1VJNd6Qdw2/preview" width="100%" height="480" allow="autoplay"></iframe>
     </div>
 </div>
