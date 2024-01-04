@@ -16,7 +16,7 @@ My work at Blizzard is under an NDA, so I cannot disclose sensitive details abou
         {% include figure.html path="assets/img/netcode_settings.png" title="Netcode Settings" class="img-fluid rounded z-depth-1" %}
     </div>
      <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/netgraph_display.png" title="Netgraph Display" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/netgraph_display.jpg" title="Netgraph Display" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
