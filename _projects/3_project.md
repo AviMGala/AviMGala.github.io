@@ -7,74 +7,27 @@ importance: 3
 category: Games
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I started at Blizzard as an intern on Server & Netcode Team 0, working on the Unannounced Survival Game. I interned again with the same team the following summer, this time working on a DDOS Mitigation project, writing code to help automate performance and load testing.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+My work at Blizzard is under an NDA, so I cannot disclose sensitive details about either project. Here are some general concepts regarding what I helped build:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/1H1qfgXoE8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        {% include figure.html path="assets/img/netcode_settings.png" title="Netcode Settings" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <!-- Embed code for another video -->
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <!-- Embed code for another video -->
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/netgraph_display.png" title="Netgraph Display" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    On the left is a basic system to respawn the player. Middle, networked chat functionality in C++. Right, in-game tags and launching via Steam.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    In the Unannounced Survival Game, I helped reduce rubber banding and in game latency, and built netcode settings functionality, a display for netcode related info, and HUD notifications when latency events occur.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+ My team is also working on an awesome DDOS mitigation tool that I contributed to in the Summer of 2023. It is currently being rolled out to Overwatch 2 with plans to roll it out to the remaining games in the Blizzard suite. Here are some of its features:
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+<!-- Bullet-pointed list -->
+<ul>
+  <li>Process packets in the networking stack with extremely low overhead</li>
+  <li>Avoids expensive network layer packet analysis</li>
+  <li>Allows ID of individual clients, and implements rollover features so that server failures do not prompt interruption of the game</li>
+</ul>
