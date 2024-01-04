@@ -12,14 +12,14 @@ Here is the final project from ITP 438: Advanced Gameplay Programming. This proj
 with c++ code written for networking, movement, combat, UI, and more!
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <iframe width="360" height="202" src="https://www.youtube.com/embed/_41KNuIh3wY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <iframe width="100%" height="202" src="https://www.youtube.com/embed/_41KNuIh3wY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <iframe width="360" height="202" src="https://www.youtube.com/embed/htSv0uxy3sE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <iframe width="100%" height="202" src="https://www.youtube.com/embed/htSv0uxy3sE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <iframe width="360" height="202" src="https://www.youtube.com/embed/PPrS0S1SDRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <iframe width="100%" height="202" src="https://www.youtube.com/embed/PPSrS0S1DRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 <div class="caption">
@@ -37,10 +37,10 @@ with c++ code written for networking, movement, combat, UI, and more!
 Below are snippets of code that make this project work behind the scenes. C++ is the backbone of this demo, it enabled the save/load capability of the game, the storing of chat messages, collision, and pretty much everything else that you just saw.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/projectileCode.png" title="Projectile Code" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/SequenceBlueprint.PNG" title="Sequence Puzzle Blueprint" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
