@@ -1,8 +1,8 @@
 ---
 layout: page
 title: project 4
-description: another without an image
-img:
+description: David Goggins LM
+img: assets/img/Goggins_pfp.jpg
 importance: 3
 category: ML/Quant/Misc.
 ---
