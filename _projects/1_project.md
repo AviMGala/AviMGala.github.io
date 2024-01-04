@@ -31,7 +31,7 @@ with c++ code written for networking, movement, combat, UI, and more!
     </div>
 </div>
 <div class="caption">
-    Here's a snippet from the final project, implementing a networked projectile that explodes and communicates the explotion animation/sound effects to the listen server.
+    Here's a snippet from the final project, implementing a networked projectile that explodes and communicates the explosion animation/sound effects to the listen server.
 </div>
 
 Below are snippets of code that make this project work behind the scenes. C++ is the backbone of this demo, it enabled the save/load capability of the game, the storing of chat messages, collision, and pretty much everything else that you just saw.
