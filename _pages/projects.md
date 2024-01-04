@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of projects!
 nav: true
 nav_order: 2
-display_categories: [Games, ML/Quant]
+display_categories: [Games, ML/Quant/Misc.]
 horizontal: false
 ---
 
