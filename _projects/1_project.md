@@ -13,21 +13,21 @@ with c++ code written for networking, movement, combat, UI, and more!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/1H1qfgXoE8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/_41KNuIh3wY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <!-- Embed code for another video -->
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/htSv0uxy3sE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <!-- Embed code for another video -->
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/PPrS0S1SDRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 <div class="caption">
-    On the left is a basic system to respawn the player. Middle, networked chat functionality in C++. Right, in-game tags and launching via Steam.
+    The leftmost video features projectile collision detection, networked kill streaks, and messages that indicate the start and end of the game. In the middle is networked chat functionality. Lastly, the rightmost clip shows tagging and switching tags (like in Valorant or Overwatch).
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/KNC-wJUlZbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 <div class="caption">
@@ -45,11 +45,8 @@ Below are snippets of code that make this project work behind the scenes. C++ is
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    On the left is a snippet from the projectile code, on the right is an image of the blueprint used to build an in-game puzzle that is triggered by pressure plates.
 </div>
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+If you'd like to see more, shoot me an email at avinashmgala@gmail.com and I'll be happy to show you Game AI, responsive animation, and other game logic, including what you see above!
