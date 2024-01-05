@@ -10,7 +10,7 @@ Built a language model trained on David Goggins' content scraped from YouTube. W
 
 <div class="row">
     <div class="col-sm-12 mt-3 mt-md-0">
-        <iframe width="100%" height="450" src="https://www.youtube.com/embed/n_e8e6tPa44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="100%" height="1000" src="https://www.youtube.com/embed/n_e8e6tPa44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
  <div class="row">
